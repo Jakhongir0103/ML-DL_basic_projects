@@ -1,1 +1,1 @@
-### The projects I have made while learnign MachineLearning/DataScience
+### The projects I have made while learning MachineLearning/DataScience
